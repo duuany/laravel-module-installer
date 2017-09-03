@@ -1,0 +1,19 @@
+{
+    "name": "duuany/laravel-module-installer",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LaravelModules\\LaravelModuleInstaller\\": "src/"
+        }
+    },
+    "extra": {
+        "class": "LaravelModules\\LaravelModuleInstaller\\LaravelModuleInstallerPlugin"
+    },
+    "require-dev": {
+        "composer/composer": "^1.3"
+    },
+    "require": {
+        "composer-plugin-api": "^1.1"
+    }
+}
