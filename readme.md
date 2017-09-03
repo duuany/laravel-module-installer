@@ -1,4 +1,6 @@
-# Documentation soon.
+# How it works
+
+Soon.
 
 ### License
 
